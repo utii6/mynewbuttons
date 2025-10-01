@@ -1,1 +1,1 @@
-worker: python manager_bot_buttons.py
+web: python manager_bot_webhook.py
